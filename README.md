@@ -24,7 +24,7 @@ This small board will be powered by the RS-41 and, soon after boot, will:
 - try to connect to the pre-selected WiFi access point, if this fail
   it will start in Access Point mode and will accept a client
   connection from a mobile phone or laptop;
-- start a web browser to allow:
+- start a web server to allow:
   - the selection of the RS-41 transmit frequency, related register
     values are calculated from frequency entered
   - the time needed to go in deep sleep mode to save energy
